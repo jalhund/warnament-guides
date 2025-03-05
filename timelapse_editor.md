@@ -1,5 +1,7 @@
 # How to effectively use Timelapse Editor?
 
+How to open? Open the Warnament game: New game - Next - Timelapse Editor
+
 1. Increase values of the main countries for your timelapse. All of them should be visible on the first page (because you can export only the info about the first 15 countries in .txt). Also only first 15 countries are visible on the screen)
 
 2. Use the brush to change borders. Press the `+` icon to create new month/year and fill borders on all period you need
